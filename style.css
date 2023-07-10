@@ -14,3 +14,14 @@ body{
     flex-direction: column;
 }
 
+.Background-container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button{
+    padding: 12px 24px;
+    width: 50px;
+}
