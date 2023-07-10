@@ -20,6 +20,13 @@ body{
     text-align: center;
     justify-content: center;
     flex-direction: column;
+    background-color: darkslateblue;
+    width: 30%;
+    margin-left: 35%;
+    margin-bottom: 30px;
+    height: 10%;
+    border-radius: 10px;
+    color: #fff;
 }
 
 .btn-div{
