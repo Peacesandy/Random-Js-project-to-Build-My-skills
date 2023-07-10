@@ -12,6 +12,7 @@ body{
     text-align: center;
     justify-content: center;
     flex-direction: column;
+    margin-top: 100px;
 }
 
 .Background-container{
@@ -21,7 +22,11 @@ body{
     flex-direction: column;
 }
 
+.btn-div{
+    text-align: center;
+}
+
 button{
     padding: 12px 24px;
-    width: 50px;
+    cursor: pointer;
 }
